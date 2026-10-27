@@ -40,7 +40,17 @@ Example:
 
 ### 2. Compile
 
+```zsh
+g++ -std=c++17 -O2 -o sudoku-solver main.cpp
+```
+
 ### 3. Run
+
+```zsh
+./sudoku-solver
+```
+
+Run the command from the directory containing `input.txt`.
 
 ### 4. Check the output
 
